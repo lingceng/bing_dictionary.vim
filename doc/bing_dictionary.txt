@@ -7,7 +7,3 @@ Author:  Lingceng <http://blog.lingceng.io/>
 USAGE                                            *bing_dictionary-usage* *Dict*
 
 :Dict {name}   The only global command. Open translations in a bottom window.
-
-
-
-
