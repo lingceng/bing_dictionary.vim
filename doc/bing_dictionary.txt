@@ -1,0 +1,13 @@
+*bing_dictionary.txt* Find translation in vim with [bing_dictionary](https://github.com/lingceng/bing_dictionary).
+
+Author:  Lingceng <http://blog.lingceng.io/>
+
+|z-usage|                   Usage
+
+USAGE                                            *bing_dictionary-usage* *Dict*
+
+:Dict {name}   The only global command. Open translations in a bottom window.
+
+
+
+
